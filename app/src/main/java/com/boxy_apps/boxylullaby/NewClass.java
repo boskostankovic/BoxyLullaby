@@ -6,5 +6,6 @@ package com.boxy_apps.boxylullaby;
 
 public class NewClass {
     public NewClass() {
+
     }
 }
